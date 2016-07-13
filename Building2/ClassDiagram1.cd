@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Building2.Block" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Building" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIAASAAAAAAABCAABAABAAAAAMBAAQQgEAgAA=</HashCode>
+      <FileName>Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.BuildingGenerator" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuildingGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.City" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAGAAAIAAAIAAAADAADAAAAAAABAAAAECQBgAACAAA=</HashCode>
+      <FileName>City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Field Name="groupBox7" Hidden="true" />
+      <Field Name="groupBox8" Hidden="true" />
+      <Field Name="groupBox9" Hidden="true" />
+      <Field Name="house" Hidden="true" />
+      <Field Name="kd" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label22" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label33" Hidden="true" />
+      <Field Name="label36" Hidden="true" />
+      <Field Name="label37" Hidden="true" />
+      <Field Name="label38" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label51" Hidden="true" />
+      <Field Name="label54" Hidden="true" />
+      <Field Name="label57" Hidden="true" />
+      <Field Name="label58" Hidden="true" />
+      <Field Name="label59" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label60" Hidden="true" />
+      <Field Name="label62" Hidden="true" />
+      <Field Name="label63" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="labelb1" Hidden="true" />
+      <Field Name="labelb2" Hidden="true" />
+      <Field Name="labelb3" Hidden="true" />
+      <Field Name="labelb4" Hidden="true" />
+      <Field Name="labeldl" Hidden="true" />
+      <Field Name="labelet" Hidden="true" />
+      <Field Name="labelg1" Hidden="true" />
+      <Field Name="labelg2" Hidden="true" />
+      <Field Name="labelg3" Hidden="true" />
+      <Field Name="labelg4" Hidden="true" />
+      <Field Name="labelh" Hidden="true" />
+      <Field Name="labelKa" Hidden="true" />
+      <Field Name="labelKd" Hidden="true" />
+      <Field Name="labelKs" Hidden="true" />
+      <Field Name="labell" Hidden="true" />
+      <Field Name="labeln" Hidden="true" />
+      <Field Name="labelQ" Hidden="true" />
+      <Field Name="labelr1" Hidden="true" />
+      <Field Name="labelr2" Hidden="true" />
+      <Field Name="labelr3" Hidden="true" />
+      <Field Name="labelr4" Hidden="true" />
+      <Field Name="labelRx" Hidden="true" />
+      <Field Name="labelRy" Hidden="true" />
+      <Field Name="labelRz" Hidden="true" />
+      <Field Name="labelsh" Hidden="true" />
+      <Field Name="labelshr" Hidden="true" />
+      <Field Name="labelt" Hidden="true" />
+      <Field Name="labelW" Hidden="true" />
+      <Field Name="labelX" Hidden="true" />
+      <Field Name="labelY" Hidden="true" />
+      <Field Name="labelYL" Hidden="true" />
+      <Field Name="labelZ" Hidden="true" />
+      <Field Name="labelZL" Hidden="true" />
+      <Field Name="labelZoom" Hidden="true" />
+      <Field Name="maxX" Hidden="true" />
+      <Field Name="maxY" Hidden="true" />
+      <Field Name="maxZ" Hidden="true" />
+      <Field Name="mGlTextureObject" Hidden="true" />
+      <Field Name="mGlTextureObject1" Hidden="true" />
+      <Field Name="n" Hidden="true" />
+      <Field Name="NUM_TEXTURES" Hidden="true" />
+      <Field Name="openFileDialogTextureName" Hidden="true" />
+      <Field Name="pictureBoxB" Hidden="true" />
+      <Field Name="pictureBoxR" Hidden="true" />
+      <Field Name="pictureBoxT" Hidden="true" />
+      <Field Name="pictureBoxW" Hidden="true" />
+      <Field Name="radioButton3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>/yEkAQQXcXKBAhEYT4/HhLhGCgYIBCkE0GoFgnmC6DM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.House">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBACAAQMgBAIQAAEBQAAACACZYQAAAAgUAAAwAEgcB0=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.MaterialProperty">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAAAAkAAAAAgAAAAAAAAAQAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>MaterialProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Program" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Rect">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAGACAAAAECABAAAAALQ=</HashCode>
+      <FileName>Rect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Vertex">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAAAAAAEgAAAAAAAAEIAAAEEFIAABAAYAE=</HashCode>
+      <FileName>Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Properties.Resources" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building2.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="typeBuilding" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAgAAA=</HashCode>
+      <FileName>CodeFile1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Side">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAgAAAAAAAAEAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Side.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\bin\Debug\Building2.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\bin\Debug\Building2.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\Building2.Form1.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\Building2.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\Building2.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\Building2.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\Building2\obj\Debug\Building2.pdb
+C:\Users\1\Desktop\Building2\obj\Debug\Building2.exe
+C:\Users\1\Desktop\Building2\obj\Debug\Building2.pdb
+C:\Users\1\Desktop\Building2\bin\Debug\Building2.exe
+C:\Users\1\Desktop\Building2\bin\Debug\Building2.pdb
+C:\Users\1\Desktop\Building2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\Building2\obj\Debug\Building2.Form1.resources
+C:\Users\1\Desktop\Building2\obj\Debug\Building2.Properties.Resources.resources
+C:\Users\1\Desktop\Building2\obj\Debug\Building2.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\Building2.exe
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\Building2.pdb
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\bin\Debug\Building2.exe
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\bin\Debug\Building2.pdb
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\Building2.Form1.resources
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\Building2.Properties.Resources.resources
+C:\Users\1\Desktop\здания!!!!!\релиз\Building2\obj\Debug\Building2.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\Building2.exe
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\Building2.pdb
+C:\Users\1\Desktop\релиз\Building2\bin\Debug\Building2.exe
+C:\Users\1\Desktop\релиз\Building2\bin\Debug\Building2.pdb
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\Building2.Form1.resources
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\Building2.Properties.Resources.resources
+C:\Users\1\Desktop\релиз\Building2\obj\Debug\Building2.csproj.GenerateResource.Cache
